@@ -1,7 +1,7 @@
 # Support Agent Chatbot for CDPs
 
 ## Live Deployment
-Access the live chatbot here: **[Support Agent Chatbot](https://your-deployment-link.com)**
+Access the live chatbot here: **[Support Agent Chatbot](https://vijay-cdpchatbot.netlify.app/)**
 
 ---
 
