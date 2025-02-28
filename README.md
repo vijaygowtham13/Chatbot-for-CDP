@@ -27,8 +27,4 @@ A chatbot designed to assist users with "how-to" questions for four Customer Dat
 
 ---
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/support-agent-chatbot.git
-   cd support-agent-chatbot
+
